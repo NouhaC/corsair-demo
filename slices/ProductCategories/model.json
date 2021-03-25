@@ -1,0 +1,55 @@
+{
+  "id": "product_categories",
+  "type": "SharedSlice",
+  "name": "ProductCategories",
+  "description": "ProductCategories",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ProductCategories",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        }
+      },
+      "items": {
+        "category": {
+          "type": "Image",
+          "config": {
+            "id": "category",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "categorytitle": {
+          "type": "StructuredText",
+          "config": {
+            "label": "",
+            "id": "categorytitle",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "categorylink": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "categorylink",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        }
+      }
+    }
+  ]
+}

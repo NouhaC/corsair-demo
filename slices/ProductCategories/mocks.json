@@ -1,0 +1,87 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ProductCategories",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Duis labore sunt nisi commodo dolor. Consequat duis incididunt ullamco culpa reprehenderit do sunt sunt incididunt sint culpa sint. Mollit commodo cillum mollit amet do et fugiat.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "category": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
+        },
+        "categorytitle": [
+          {
+            "type": "paragraph",
+            "text": "Cupidatat officia duis occaecat pariatur. Sint aliqua aliqua mollit ex exercitation amet aliqua cupidatat.",
+            "spans": []
+          }
+        ],
+        "categorylink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "category": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+        },
+        "categorytitle": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate commodo cillum cupidatat. Esse aliqua enim sint consequat elit laborum occaecat magna non.",
+            "spans": []
+          }
+        ],
+        "categorylink": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "category": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
+        },
+        "categorytitle": [
+          {
+            "type": "paragraph",
+            "text": "Lorem esse nisi laboris laborum adipisicing nulla mollit labore irure.",
+            "spans": []
+          }
+        ],
+        "categorylink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      }
+    ],
+    "slice_type": "product_categories"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "QuoteSlice",
+    "primary": {
+      "quotetext": [
+        {
+          "type": "paragraph",
+          "text": "Duis nostrud magna anim cillum aliqua voluptate id in qui aliqua reprehenderit.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "quote_slice"
+  }
+]

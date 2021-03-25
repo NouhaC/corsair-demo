@@ -1,0 +1,166 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageGallery",
+    "primary": {
+      "galleryTitle": [
+        {
+          "type": "paragraph",
+          "text": "Ea cillum ex duis commodo dolor ad aute cillum esse. Non cupidatat mollit laboris dolor. Adipisicing aute Lorem eiusmod fugiat velit amet nulla labore eiusmod aliquip laborum pariatur Lorem.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Elit Lorem ut occaecat nostrud nostrud elit cupidatat consequat ut nostrud aliquip voluptate ut exercitation.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "linkLabel": [
+          {
+            "type": "paragraph",
+            "text": "Adipisicing exercitation commodo consequat excepteur tempor veniam sint ut ullamco dolor. Laboris ipsum sunt laborum ullamco nulla laborum officia sit laboris pariatur. Elit cupidatat consequat exercitation ipsum dolore qui aliqua do exercitation nostrud qui.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Magna in sunt eiusmod do laboris sunt fugiat ut occaecat Lorem laborum.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "linkLabel": [
+          {
+            "type": "paragraph",
+            "text": "Culpa laboris enim duis quis nostrud reprehenderit nostrud id dolor irure cillum cupidatat minim in ea. Non incididunt duis elit ad enim cillum irure consequat commodo occaecat magna ut. Veniam consectetur proident id labore sit ex et esse laborum aute ex amet.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Do do dolor adipisicing proident aliqua magna officia consequat non esse. Aute eiusmod deserunt consectetur ipsum elit est sint veniam occaecat est fugiat veniam fugiat et et.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "linkLabel": [
+          {
+            "type": "paragraph",
+            "text": "Occaecat consectetur officia esse id officia eiusmod. Minim eiusmod qui velit. Commodo occaecat Lorem sit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Anim esse dolor nostrud ipsum officia eu consectetur ea. Do officia deserunt amet veniam nisi sint. Eiusmod pariatur occaecat voluptate excepteur aliqua laborum fugiat.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "linkLabel": [
+          {
+            "type": "paragraph",
+            "text": "Ut anim esse duis. Occaecat nulla culpa duis eu laborum laboris tempor fugiat irure veniam et voluptate. Non consequat mollit magna voluptate eu labore aliquip enim quis exercitation aliquip voluptate ad adipisicing.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Culpa deserunt dolore aute cupidatat pariatur ullamco dolore laborum proident fugiat consequat. Cupidatat cupidatat sint proident incididunt duis cillum aute esse aliqua sit reprehenderit et.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "linkLabel": [
+          {
+            "type": "paragraph",
+            "text": "Eu esse est laborum fugiat magna aliquip nisi exercitation. Do aute nostrud exercitation ullamco eiusmod aute nisi.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slice_type": "image_gallery"
+  }
+]

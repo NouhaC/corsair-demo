@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TextSlice",
+    "primary": {
+      "richtext": [
+        {
+          "type": "paragraph",
+          "text": "Veniam officia voluptate ad elit sit cupidatat sunt eu aliqua id. Sit aliqua magna exercitation nulla elit ipsum excepteur do. Pariatur ut sunt esse consectetur nostrud do commodo officia aute id.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "text_slice"
+  }
+]

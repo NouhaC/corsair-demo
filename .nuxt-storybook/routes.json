@@ -1,0 +1,22 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/nouhachhih/Documents/corsair-demo/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_b1495dee"
+  },
+  {
+    "name": "page-uid",
+    "path": "/page/:uid?",
+    "component": "/Users/nouhachhih/Documents/corsair-demo/pages/page/_uid.vue",
+    "chunkName": "pages/page/_uid",
+    "_name": "_898f6b5a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/nouhachhih/Documents/corsair-demo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6066a6d8"
+  }
+]

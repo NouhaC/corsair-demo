@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageHighlight",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Lorem fugiat nulla consectetur sunt non sit. Mollit amet veniam excepteur cillum magna pariatur voluptate. Eu ipsum aute veniam sunt.",
+          "spans": []
+        }
+      ],
+      "headline": [
+        {
+          "type": "paragraph",
+          "text": "Cupidatat culpa et tempor reprehenderit nostrud eiusmod laborum.",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "linkLabel": "innovate intuitive methodologies",
+      "featuredImage": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1589321599763-d66926c29613?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "image_highlight"
+  }
+]
